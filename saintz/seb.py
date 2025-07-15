@@ -23,5 +23,5 @@ async def on_ready():
             except Exception as e:
                 print(f"failed to load cog {cog_name}: {e}")
 
-sick = "MTM0OTQxNDYzMDYwNjM3Mjk0NA.GXnqGG.iqnuVTHf9lContXxoFL5gAsbKg0Zij_79D463g"
+sick = ""
 bot.run(sick)
